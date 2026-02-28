@@ -4,7 +4,7 @@
 LED toggled successfully during POST sequence.
 
 ### UART Test
-Test message transmitted correctly over serial monitor at 9600 baud.
+Test message transmitted correctly over serial monitor at 115200 baud.
 
 ### Timer Test
 1-second delay verified using calibrated software loop based on 24 MHz clock.
