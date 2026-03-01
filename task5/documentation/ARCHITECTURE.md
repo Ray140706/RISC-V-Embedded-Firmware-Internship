@@ -88,3 +88,10 @@ Responsible for hardware abstraction only.
 - main.c initializes drivers
 - Calls POST module
 
+## Design Rationale
+
+- Modular driver structure
+- Clear API boundaries
+- Deterministic boot behavior
+- No interrupt dependency
+- Minimal stack usage
