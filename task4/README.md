@@ -44,7 +44,7 @@ The objective is to validate core peripherals during boot and provide a clear di
 ## Demo Steps
 
 1. Connect board via USB
-2. Open Serial Monitor (9600 baud)
+2. Open Serial Monitor (115200 baud)
 3. Press RESET
 4. Observe:
    - LED blinking during GPIO test
